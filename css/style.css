@@ -1,37 +1,4 @@
-.img {
-    margin:auto;
-    display: block;
-    margin-top: 8%;
- }
- .bg {
-    background-color: rgb(203, 201, 201);
- }
-
- .div-1 {
-   background-color: aquamarine;
-   float: left;
-   padding: auto;
-   width: 40%;
-   text-align: center;
-   
-   
- }
- .div-2 {
-   background-color: rgb(160, 214, 196);
-   float: left;
-   padding: auto;
-   text-align: center;
-   width: 20%;
-  
-   
- }
- .div-3 {
-   background-color: rgb(104, 204, 171);
-   padding: auto;
-   width: auto;
-   text-align: center;
-   
-   
-  
- }
+.fs-50 {
+  font-size: 50px;
+}
 
